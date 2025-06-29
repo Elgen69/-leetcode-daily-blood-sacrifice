@@ -2,7 +2,7 @@
 # Language: Python
 # Technique: Hashmap (dictionary) for O(n) lookup time
 
-# In Python, we define a class to group methods together (just like a container for logic).
+# In Python, we define a class to group methods together (just like a container for logic)
 class Solution(object):
     def twoSum(self, nums, target):
         """
