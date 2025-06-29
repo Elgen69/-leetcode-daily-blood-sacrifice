@@ -6,16 +6,15 @@
 
 ## 🧭 What Is This?
 
-This repository is my public documentation of an unhinged, caffeine-fueled quest to solve **every single LeetCode problem** (all ~3600 of them) and become an **algorithmic weapon of mass destruction**.
+This repository is my public documentation of an unhinged, caffeine-fueled quest to solve **every single LeetCode problem** (yes, all ~3600 of them — eventually) and become an **algorithmic weapon of mass destruction**.
 
 Every day, I:
-- Solve one (or more) LeetCode problem(s),
-- Write clean and well-documented code,
-- Rotate languages occasionally (Python, JavaScript, Java, maybe Rust if I snap),
-- Keep track of the **core patterns** used (hashmaps, sliding window, dynamic programming, recursion, etc),
-- And manually commit it all like a developer who *understands Git more than life*.
+- Solve LeetCode problems,
+- Rotate between real-world languages (Python, JavaScript, Java, etc),
+- Keep notes and patterns per file,
+- Push manually like an artisan coder who doesn’t trust auto-commit bots.
 
-> This isn't just practice — it's a ritual.
+> This is not a tutorial repo. This is a training ground.
 
 ---
 
@@ -23,75 +22,58 @@ Every day, I:
 
 Because:
 
-- I want to *truly understand* data structures and algorithms.
-- I’m done pretending like I know Python/JavaScript/Java — now I will.
-- I want a green GitHub graph that makes recruiters squint.
-- And most of all… because I **can**.
+- I want to *actually understand* the underlying patterns in data structures and algorithms.
+- I’m tired of pretending I know a language — I’m going to *use* it until I do.
+- I want my GitHub to look like a cyberpunk timesheet of pain and glory.
+- And because I made a promise to my future self: no more tutorial hell, only algorithmic war.
 
 ---
 
-## 🛠️ Languages Covered
-
-I will be cycling through languages throughout this repo. These include:
+## 🛠️ Languages I’m Grinding With
 
 - 🐍 Python (starting language)
-- 🌐 JavaScript (later)
-- ☕ Java (eventually)
-- 🦀 Rust or C++ (when I ascend)
+- 🌐 JavaScript (for async pain)
+- ☕ Java (for OOP pain)
+- 🦀 Maybe Rust (for ego pain)
 
-Each solution will be organized by:
-1. Problem Number
-2. Language
-3. Date
-4. Pattern / Technique used
+Solutions are organized by problem title and language folder — no fancy file names, just war logs.
 
 ---
 
-## 📊 Progress Tracker
+## 🧪 My Grind Rules
 
-| Day | Date       | Problem                      | Difficulty | Language | Technique          |
-|-----|------------|------------------------------|------------|----------|---------------------|
-| 1   | 2025-06-29 | Two Sum (#1)                 | Easy       | Python   | Hashmap / Dict      |
-| 2   | TBD        | Best Time to Buy & Sell (#121) | Easy       | Python   | Greedy / 1-pass     |
-| ... | ...        | ...                          | ...        | ...      | ...                 |
-
-I will also track:
-- Repeated patterns
-- My speed improvements
-- Personal notes or breakdowns
+- 📅 One or more problems daily (unless I’m dead or dying).
+- 🚫 No skipping “hard” problems forever — eventually they get done.
+- 🧼 Code must be clean, readable, and minimal. If it looks like a leak, it’s rewritten.
+- 🧠 Learning > speed.
+- 📖 Writeups, patterns, or comments as needed per problem.
+- 🪞 Reflect when confused. Rage push when enlightened.
 
 ---
 
-## 🧪 Philosophy
+## 🔮 Future Dumb Ideas
 
-> “I want to get good enough at problem solving that I can walk into any codebase, any interview, any whiteboard, and just **cook**.”
-
----
-
-## 🪓 Rules of the Grind
-
-- 📅 Solve *at least one* problem daily.
-- ✍🏽 No copying — only learning.
-- 🧼 Keep code clean, readable, and minimal.
-- 🧠 Focus on learning patterns — not memorizing answers.
-- 🧘🏽 Stay calm, even when dynamic programming shows up.
+- A script that randomly assigns me a LeetCode problem daily like a loot box.
+- A GitHub Action that yells at me when I don’t commit code for a day.
+- A site that visualizes my LeetCode patterns like a neural network chart.
+- A bot that tweets every time I pass a test case with the caption: *“He lives again.”*
 
 ---
 
-## 🔮 Future Plans
+## 🪓 Philosophy
 
-- Build a visualization dashboard (maybe with React + D3) to track solved problems, techniques used, and language distribution.
-- Create LeetCode-style clone problems to test myself.
-- Eventually contribute to open-source algorithm libraries.
-- Make memes about LeetCode pain.
+> “Learn by doing, suffer by debugging, grow by grinding.”  
+> – Someone who has cried over backtracking
+
+This repo is my sweat-stained, syntax-error-ridden portfolio of **actual algorithmic growth**. Not for flex. Not for clout. Just for **getting good**.
 
 ---
 
 ## 🧾 License
 
-MIT — because **knowledge wants to be free**.
+MIT — because sharing pain is free.
 
 ---
 
-> 🏁 *"Solving one LeetCode problem a day keeps impostor syndrome at bay."*  
-> — Me, probably while debugging a sliding window edge case at 2AM.
+> 🏁 *“Solve code daily, fear recursion rarely.”*  
+> – Me, while stack overflowing in both ways.
