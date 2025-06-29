@@ -34,7 +34,7 @@ Because:
 - 🐍 Python (starting language)
 - 🌐 JavaScript (for async pain)
 - ☕ Java (for OOP pain)
-- 🦀 Maybe Rust (for ego pain)
+- 🦀 Maybe C/GO (for ego pain)
 
 Solutions are organized by problem title and language folder — no fancy file names, just war logs.
 
